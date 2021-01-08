@@ -1,16 +1,18 @@
-### Hi there 👋
+# Howdy! 👋
 
-<!--
-**LinusMuema/LinusMuema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `$ whoami`
+* **😎 Android developer**
+* **😃 Kotlin enthusiast**
+* **😆 Jetpack junkie**
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linusmuema&hide=css)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :octocat: Github stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=linusmuema&show_icons=true)
+
+### Get in touch
+<p>
+  <a href="https://twitter.com/linusmoose"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/linus-muema"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://stackoverflow.com/users/11125430/linus-muema"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
+<p>
