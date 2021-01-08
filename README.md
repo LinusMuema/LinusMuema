@@ -5,9 +5,8 @@
 * **😃 Kotlin enthusiast**
 * **😆 Jetpack junkie**
 
+### :octocat: My stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linusmuema&hide=css)
-
-### :octocat: Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=linusmuema&show_icons=true)
 
 ### Get in touch
