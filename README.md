@@ -1,9 +1,11 @@
 # Howdy! 👋
 
 ### `$ whoami`
-* **😎 Android developer**
-* **😃 Kotlin enthusiast**
-* **😆 Jetpack junkie**
+> ```bash
+> • 😎 Android developer
+> • 😃 Kotlin enthusiast
+> • 😆 Jetpack junkie
+> ```
 
 ### :octocat: My stats
   <table>
