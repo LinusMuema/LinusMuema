@@ -1,11 +1,12 @@
 # Howdy! 👋
 
-### `$ whoami`
-> ```bash
-> • 😎 Android developer
-> • 😃 Kotlin enthusiast
-> • 😆 Jetpack junkie
-> ```
+```cli
+linusmuema@github:~ $ whoami
+
+  • 😎 Android developer
+  • 😃 Kotlin enthusiast
+  • 😆 Jetpack junkie
+```
 
 ### :octocat: My stats
   <table>
