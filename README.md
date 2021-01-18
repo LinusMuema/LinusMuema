@@ -6,8 +6,12 @@
 * **😆 Jetpack junkie**
 
 ### :octocat: My stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linusmuema&hide=css)
-![Github stats](https://github-readme-stats.vercel.app/api?username=linusmuema&show_icons=true)
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=linusmuema&show_icons=true"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linusmuema&hide=css&layout=compact"/></td>      
+  </tr>   
+</table>
 
 ### Get in touch
 <p>
