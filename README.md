@@ -24,4 +24,4 @@ linusmuema@github:~ $ whoami
 <p>
 
 ### What's buzzing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ndb9n6brj3k38lgw3ksxewx1p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ndb9n6brj3k38lgw3ksxewx1p&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ndb9n6brj3k38lgw3ksxewx1p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ndb9n6brj3k38lgw3ksxewx1p&redirect=true)
